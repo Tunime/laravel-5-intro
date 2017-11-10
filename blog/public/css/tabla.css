@@ -1,0 +1,20 @@
+.cuerpo{
+	background: #BEBDBD;
+}
+.tabla{
+	background: white;
+	width: 80%;
+}
+.tabla--datos{
+	width: 100%;
+	text-align: center;
+}
+.tabla--datos tr{
+	border-bottom: solid 1px #E8EBEE;
+}
+.tabla--datos th{
+	padding: 0.8em;
+}
+.tabla--datos td{
+	padding: 0.8em;
+}

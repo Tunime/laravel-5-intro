@@ -14,3 +14,15 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/alvaro', function () {
+    /*return 'oy una ruta creada alvaro';*/
+    return view('login');
+});
+Route::get('/vista', function () {
+    /*return 'oy una ruta creada alvaro';*/
+    return view('login');
+});
+Route::get('/resultado', function () {
+    /*return 'oy una ruta creada alvaro';*/
+    return view('tabla');
+});
